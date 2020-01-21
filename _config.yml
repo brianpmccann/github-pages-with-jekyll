@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Brian's First GitHub Site
+author: brianpmccann
+email: brianpmccann@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ This is my first GitHub site, I hoping to blog faster than I ever did in WordPress.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: brianpmccann
+github_username:  brianpmccann
 
 show_excerpts: true # set to false to remove excerpts on the homepage
