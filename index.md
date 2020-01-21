@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm blogging on GitHub Pages, and it feels stupendous.
